@@ -1,0 +1,103 @@
+/* @import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css " */
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+     background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    font-family:sans-serif
+    
+}
+
+
+.login{
+    width: 300px;
+    height: 600px;
+    position: relative;
+    margin:13% auto;
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 3%;
+}
+h1{
+    margin: 0%;
+    padding:10%;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-bottom: 10%;
+}
+label{
+    margin: 0%;
+    padding-top: 20%;
+}
+ 
+
+
+.text-form input{
+    margin-bottom: 5%;
+    padding: 0%;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+
+.text-form input[type=text]{
+    border: none;
+    border-bottom:2px solid black;
+    outline:none;
+    height: 25px;
+    font-size: 15px;
+    opacity: 0.5;
+}
+
+.pass{
+    margin: 0%;
+    padding-left:  70%;;
+    font-size: 11px;
+    /* color: red; */
+}
+
+.text-form input[type=submit]{
+    margin-bottom: 50px;
+    margin-top: 40px;
+    
+    
+    padding:2%;
+    font-size: 15px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    border-radius: 30px 30px ;
+
+}
+
+.logo{
+    margin-left: 30%;
+}
+
+
+
+.fa {
+    
+    padding: 10px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
